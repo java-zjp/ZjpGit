@@ -1,1 +1,4 @@
 好但事实上
+$ git config user.name "user1"
+$ git config user.email "user@163.com"
+1
